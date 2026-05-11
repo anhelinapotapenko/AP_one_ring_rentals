@@ -1,15 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import "./index.css";
+
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
-import "bulma/css/bulma.min.css";
-import "bootstrap/dist/css/bootstrap.min.css";
 
-import "./css/bootstrap-datepicker.css";
-import "./css/font-awesome.css";
-import "./css/font-awesome.min.css";
-import "./css/font.css";
+// import "bulma/css/bulma.min.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
